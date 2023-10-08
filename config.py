@@ -1,4 +1,4 @@
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="yourapikeyhere"
 
 
 
